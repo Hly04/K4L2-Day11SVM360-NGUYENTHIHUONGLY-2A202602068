@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,35,Lưu thông tốc độ cao khiến khoảng cách thay đổi liên tục,Đảm bảo độ ổn định phát hiện xe dẫn đầu trên làn đường chính
+front,hard,30,Ngược sáng chói mặt trời và phương tiện cắt đầu đột ngột,Kiểm thử phản ứng an toàn phanh khẩn cấp trong điều kiện ánh sáng cực đoan
+rear,normal,25,Khoảng cách đuôi xe khi lùi đỗ tốc độ thấp,Đo đạc độ chính xác phát hiện chướng ngại vật sau xe khi lùi thông thường
+rear,hard,25,Điểm mù sát cản sau và vật thể thấp dưới tầm nhìn gương,Phòng ngừa va chạm trẻ nhỏ hoặc thú nuôi sát đuôi xe khi lùi ban đêm
+left,normal,20,Phương tiện song hành khi chuyển làn bên trái,Duy trì theo dõi phương tiện làn cạnh trong điều kiện đô thị tiêu chuẩn
+left,hard,25,Xe máy lách qua điểm mù vùng seam front-left và méo rìa thấu kính,Bắt kịp chuyển động cắt góc hông xe và xác thực đồng bộ vùng seam
+right,normal,20,Khoảng cách an toàn với vỉa hè và lề đường bên phụ,Đảm bảo duy trì vị trí xe chuẩn trong làn khi di chuyển bình thường
+right,hard,20,Người đi bộ băng cắt sát góc cua và biến dạng thấu kính mạnh,Phát hiện sớm người đi bộ và chướng ngại vật mép đường khi rẽ phải

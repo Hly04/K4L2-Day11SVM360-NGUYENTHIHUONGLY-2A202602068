@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+D01,2026-09-29,Có gán nhãn xe máy cất sâu trong hiên nhà dân không?,Không gán nhãn,Xe nằm ngoài phạm vi lưu thông an toàn và không tiếp giáp lòng đường theo quy ước ODD,resolved
+D02,2026-09-29,Gán nhãn người lái và người ngồi sau xe máy như thế nào?,Gộp thành 1 box Bike duy nhất,Áp dụng quy tắc rider R03 của bài học cho toàn bộ xe hai bánh,resolved
+D03,2026-09-29,Xử lý đối tượng R7 quá mờ trong reference tại frame 265065 như thế nào?,Escalate lên đội ngũ Guideline đề xuất chuyển sang ignore unreadable,Đối tượng không đủ độ rõ ràng để gán box phương tiện tiêu chuẩn,escalated
+D04,2026-09-29,Có vẽ polygon ego_body ở frame C0 và B4 không?,Có vẽ polygon bao phần thân/gá xe nhìn thấy ở mép trái và đáy ảnh,Tuân thủ quy tắc R07 cho các frame thực sự quan sát thấy thân xe ego,resolved
